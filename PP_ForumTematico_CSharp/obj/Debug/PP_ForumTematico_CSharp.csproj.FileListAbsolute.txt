@@ -1,0 +1,7 @@
+D:\Pessoal\Ensino\Univali\ADS\Paradigmas de Programacao\Forum Tematico\PP_ForumTematico_CSharp\PP_ForumTematico_CSharp\bin\Debug\PP_ForumTematico_CSharp.exe.config
+D:\Pessoal\Ensino\Univali\ADS\Paradigmas de Programacao\Forum Tematico\PP_ForumTematico_CSharp\PP_ForumTematico_CSharp\bin\Debug\PP_ForumTematico_CSharp.exe
+D:\Pessoal\Ensino\Univali\ADS\Paradigmas de Programacao\Forum Tematico\PP_ForumTematico_CSharp\PP_ForumTematico_CSharp\bin\Debug\PP_ForumTematico_CSharp.pdb
+D:\Pessoal\Ensino\Univali\ADS\Paradigmas de Programacao\Forum Tematico\PP_ForumTematico_CSharp\PP_ForumTematico_CSharp\obj\Debug\PP_ForumTematico_CSharp.csprojAssemblyReference.cache
+D:\Pessoal\Ensino\Univali\ADS\Paradigmas de Programacao\Forum Tematico\PP_ForumTematico_CSharp\PP_ForumTematico_CSharp\obj\Debug\PP_ForumTematico_CSharp.csproj.CoreCompileInputs.cache
+D:\Pessoal\Ensino\Univali\ADS\Paradigmas de Programacao\Forum Tematico\PP_ForumTematico_CSharp\PP_ForumTematico_CSharp\obj\Debug\PP_ForumTematico_CSharp.exe
+D:\Pessoal\Ensino\Univali\ADS\Paradigmas de Programacao\Forum Tematico\PP_ForumTematico_CSharp\PP_ForumTematico_CSharp\obj\Debug\PP_ForumTematico_CSharp.pdb
